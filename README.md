@@ -1,4 +1,5 @@
 [DEMO LINK](https://stepan-r.github.io/phone-catalog/)
+
 [FIGMA](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
 
 # Project Overview
